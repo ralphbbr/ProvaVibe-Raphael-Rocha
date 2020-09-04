@@ -1,2 +1,2 @@
-# EF6-Code-First-Demo
-Entity Framework 6 Code-First Demo Project
+# Prova-Vibe-Raphael-Rocha
+Entity Framework 6 Prova Vibe
