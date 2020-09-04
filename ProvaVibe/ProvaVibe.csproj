@@ -91,7 +91,6 @@
     <Compile Include="Services\TiposSegurosServices.cs" />
     <Compile Include="VO\AdicionarApolicesVO.cs" />
     <Compile Include="VO\CancelamentoApolicesVO.cs" />
-    <Compile Include="VO\ExibirApolicesVO.cs" />
     <Compile Include="VO\ParcelaVO.cs" />
   </ItemGroup>
   <ItemGroup>
